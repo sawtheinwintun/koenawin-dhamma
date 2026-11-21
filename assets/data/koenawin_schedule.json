@@ -1,0 +1,709 @@
+{
+  "totalDays": 81,
+  "startWeekday": "monday",
+  "note": "အဆင့်တိုင်းရဲ့ ၅ ရက်မြောက်နေ့ (vegetarian: true) သည် သက်သတ်လွတ် စားရမည့်နေ့ ဖြစ်သည်။",
+  "stages": [
+    {
+      "stage": 1,
+      "name": "ပထမအဆင့်",
+      "days": [
+        {
+          "day": 1,
+          "dayInStage": 1,
+          "weekday": "monday",
+          "attributeId": 2,
+          "rounds": 2,
+          "vegetarian": false
+        },
+        {
+          "day": 2,
+          "dayInStage": 2,
+          "weekday": "tuesday",
+          "attributeId": 9,
+          "rounds": 9,
+          "vegetarian": false
+        },
+        {
+          "day": 3,
+          "dayInStage": 3,
+          "weekday": "wednesday",
+          "attributeId": 4,
+          "rounds": 4,
+          "vegetarian": false
+        },
+        {
+          "day": 4,
+          "dayInStage": 4,
+          "weekday": "thursday",
+          "attributeId": 7,
+          "rounds": 7,
+          "vegetarian": false
+        },
+        {
+          "day": 5,
+          "dayInStage": 5,
+          "weekday": "friday",
+          "attributeId": 5,
+          "rounds": 5,
+          "vegetarian": true
+        },
+        {
+          "day": 6,
+          "dayInStage": 6,
+          "weekday": "saturday",
+          "attributeId": 3,
+          "rounds": 3,
+          "vegetarian": false
+        },
+        {
+          "day": 7,
+          "dayInStage": 7,
+          "weekday": "sunday",
+          "attributeId": 6,
+          "rounds": 6,
+          "vegetarian": false
+        },
+        {
+          "day": 8,
+          "dayInStage": 8,
+          "weekday": "monday",
+          "attributeId": 1,
+          "rounds": 1,
+          "vegetarian": false
+        },
+        {
+          "day": 9,
+          "dayInStage": 9,
+          "weekday": "tuesday",
+          "attributeId": 8,
+          "rounds": 8,
+          "vegetarian": false
+        }
+      ]
+    },
+    {
+      "stage": 2,
+      "name": "ဒုတိယအဆင့်",
+      "days": [
+        {
+          "day": 10,
+          "dayInStage": 1,
+          "weekday": "wednesday",
+          "attributeId": 3,
+          "rounds": 3,
+          "vegetarian": false
+        },
+        {
+          "day": 11,
+          "dayInStage": 2,
+          "weekday": "thursday",
+          "attributeId": 1,
+          "rounds": 1,
+          "vegetarian": false
+        },
+        {
+          "day": 12,
+          "dayInStage": 3,
+          "weekday": "friday",
+          "attributeId": 5,
+          "rounds": 5,
+          "vegetarian": false
+        },
+        {
+          "day": 13,
+          "dayInStage": 4,
+          "weekday": "saturday",
+          "attributeId": 8,
+          "rounds": 8,
+          "vegetarian": false
+        },
+        {
+          "day": 14,
+          "dayInStage": 5,
+          "weekday": "sunday",
+          "attributeId": 6,
+          "rounds": 6,
+          "vegetarian": true
+        },
+        {
+          "day": 15,
+          "dayInStage": 6,
+          "weekday": "monday",
+          "attributeId": 4,
+          "rounds": 4,
+          "vegetarian": false
+        },
+        {
+          "day": 16,
+          "dayInStage": 7,
+          "weekday": "tuesday",
+          "attributeId": 7,
+          "rounds": 7,
+          "vegetarian": false
+        },
+        {
+          "day": 17,
+          "dayInStage": 8,
+          "weekday": "wednesday",
+          "attributeId": 2,
+          "rounds": 2,
+          "vegetarian": false
+        },
+        {
+          "day": 18,
+          "dayInStage": 9,
+          "weekday": "thursday",
+          "attributeId": 9,
+          "rounds": 9,
+          "vegetarian": false
+        }
+      ]
+    },
+    {
+      "stage": 3,
+      "name": "တတိယအဆင့်",
+      "days": [
+        {
+          "day": 19,
+          "dayInStage": 1,
+          "weekday": "friday",
+          "attributeId": 4,
+          "rounds": 4,
+          "vegetarian": false
+        },
+        {
+          "day": 20,
+          "dayInStage": 2,
+          "weekday": "saturday",
+          "attributeId": 2,
+          "rounds": 2,
+          "vegetarian": false
+        },
+        {
+          "day": 21,
+          "dayInStage": 3,
+          "weekday": "sunday",
+          "attributeId": 6,
+          "rounds": 6,
+          "vegetarian": false
+        },
+        {
+          "day": 22,
+          "dayInStage": 4,
+          "weekday": "monday",
+          "attributeId": 9,
+          "rounds": 9,
+          "vegetarian": false
+        },
+        {
+          "day": 23,
+          "dayInStage": 5,
+          "weekday": "tuesday",
+          "attributeId": 7,
+          "rounds": 7,
+          "vegetarian": true
+        },
+        {
+          "day": 24,
+          "dayInStage": 6,
+          "weekday": "wednesday",
+          "attributeId": 5,
+          "rounds": 5,
+          "vegetarian": false
+        },
+        {
+          "day": 25,
+          "dayInStage": 7,
+          "weekday": "thursday",
+          "attributeId": 8,
+          "rounds": 8,
+          "vegetarian": false
+        },
+        {
+          "day": 26,
+          "dayInStage": 8,
+          "weekday": "friday",
+          "attributeId": 3,
+          "rounds": 3,
+          "vegetarian": false
+        },
+        {
+          "day": 27,
+          "dayInStage": 9,
+          "weekday": "saturday",
+          "attributeId": 1,
+          "rounds": 1,
+          "vegetarian": false
+        }
+      ]
+    },
+    {
+      "stage": 4,
+      "name": "စတုတ္ထအဆင့်",
+      "days": [
+        {
+          "day": 28,
+          "dayInStage": 1,
+          "weekday": "sunday",
+          "attributeId": 5,
+          "rounds": 5,
+          "vegetarian": false
+        },
+        {
+          "day": 29,
+          "dayInStage": 2,
+          "weekday": "monday",
+          "attributeId": 3,
+          "rounds": 3,
+          "vegetarian": false
+        },
+        {
+          "day": 30,
+          "dayInStage": 3,
+          "weekday": "tuesday",
+          "attributeId": 7,
+          "rounds": 7,
+          "vegetarian": false
+        },
+        {
+          "day": 31,
+          "dayInStage": 4,
+          "weekday": "wednesday",
+          "attributeId": 1,
+          "rounds": 1,
+          "vegetarian": false
+        },
+        {
+          "day": 32,
+          "dayInStage": 5,
+          "weekday": "thursday",
+          "attributeId": 8,
+          "rounds": 8,
+          "vegetarian": true
+        },
+        {
+          "day": 33,
+          "dayInStage": 6,
+          "weekday": "friday",
+          "attributeId": 6,
+          "rounds": 6,
+          "vegetarian": false
+        },
+        {
+          "day": 34,
+          "dayInStage": 7,
+          "weekday": "saturday",
+          "attributeId": 9,
+          "rounds": 9,
+          "vegetarian": false
+        },
+        {
+          "day": 35,
+          "dayInStage": 8,
+          "weekday": "sunday",
+          "attributeId": 4,
+          "rounds": 4,
+          "vegetarian": false
+        },
+        {
+          "day": 36,
+          "dayInStage": 9,
+          "weekday": "monday",
+          "attributeId": 2,
+          "rounds": 2,
+          "vegetarian": false
+        }
+      ]
+    },
+    {
+      "stage": 5,
+      "name": "ပဉ္စမအဆင့်",
+      "days": [
+        {
+          "day": 37,
+          "dayInStage": 1,
+          "weekday": "tuesday",
+          "attributeId": 6,
+          "rounds": 6,
+          "vegetarian": false
+        },
+        {
+          "day": 38,
+          "dayInStage": 2,
+          "weekday": "wednesday",
+          "attributeId": 4,
+          "rounds": 4,
+          "vegetarian": false
+        },
+        {
+          "day": 39,
+          "dayInStage": 3,
+          "weekday": "thursday",
+          "attributeId": 8,
+          "rounds": 8,
+          "vegetarian": false
+        },
+        {
+          "day": 40,
+          "dayInStage": 4,
+          "weekday": "friday",
+          "attributeId": 2,
+          "rounds": 2,
+          "vegetarian": false
+        },
+        {
+          "day": 41,
+          "dayInStage": 5,
+          "weekday": "saturday",
+          "attributeId": 9,
+          "rounds": 9,
+          "vegetarian": true
+        },
+        {
+          "day": 42,
+          "dayInStage": 6,
+          "weekday": "sunday",
+          "attributeId": 7,
+          "rounds": 7,
+          "vegetarian": false
+        },
+        {
+          "day": 43,
+          "dayInStage": 7,
+          "weekday": "monday",
+          "attributeId": 1,
+          "rounds": 1,
+          "vegetarian": false
+        },
+        {
+          "day": 44,
+          "dayInStage": 8,
+          "weekday": "tuesday",
+          "attributeId": 5,
+          "rounds": 5,
+          "vegetarian": false
+        },
+        {
+          "day": 45,
+          "dayInStage": 9,
+          "weekday": "wednesday",
+          "attributeId": 3,
+          "rounds": 3,
+          "vegetarian": false
+        }
+      ]
+    },
+    {
+      "stage": 6,
+      "name": "ဆဋ္ဌမအဆင့်",
+      "days": [
+        {
+          "day": 46,
+          "dayInStage": 1,
+          "weekday": "thursday",
+          "attributeId": 7,
+          "rounds": 7,
+          "vegetarian": false
+        },
+        {
+          "day": 47,
+          "dayInStage": 2,
+          "weekday": "friday",
+          "attributeId": 5,
+          "rounds": 5,
+          "vegetarian": false
+        },
+        {
+          "day": 48,
+          "dayInStage": 3,
+          "weekday": "saturday",
+          "attributeId": 9,
+          "rounds": 9,
+          "vegetarian": false
+        },
+        {
+          "day": 49,
+          "dayInStage": 4,
+          "weekday": "sunday",
+          "attributeId": 3,
+          "rounds": 3,
+          "vegetarian": false
+        },
+        {
+          "day": 50,
+          "dayInStage": 5,
+          "weekday": "monday",
+          "attributeId": 1,
+          "rounds": 1,
+          "vegetarian": true
+        },
+        {
+          "day": 51,
+          "dayInStage": 6,
+          "weekday": "tuesday",
+          "attributeId": 8,
+          "rounds": 8,
+          "vegetarian": false
+        },
+        {
+          "day": 52,
+          "dayInStage": 7,
+          "weekday": "wednesday",
+          "attributeId": 2,
+          "rounds": 2,
+          "vegetarian": false
+        },
+        {
+          "day": 53,
+          "dayInStage": 8,
+          "weekday": "thursday",
+          "attributeId": 6,
+          "rounds": 6,
+          "vegetarian": false
+        },
+        {
+          "day": 54,
+          "dayInStage": 9,
+          "weekday": "friday",
+          "attributeId": 4,
+          "rounds": 4,
+          "vegetarian": false
+        }
+      ]
+    },
+    {
+      "stage": 7,
+      "name": "သတ္တမအဆင့်",
+      "days": [
+        {
+          "day": 55,
+          "dayInStage": 1,
+          "weekday": "saturday",
+          "attributeId": 8,
+          "rounds": 8,
+          "vegetarian": false
+        },
+        {
+          "day": 56,
+          "dayInStage": 2,
+          "weekday": "sunday",
+          "attributeId": 6,
+          "rounds": 6,
+          "vegetarian": false
+        },
+        {
+          "day": 57,
+          "dayInStage": 3,
+          "weekday": "monday",
+          "attributeId": 1,
+          "rounds": 1,
+          "vegetarian": false
+        },
+        {
+          "day": 58,
+          "dayInStage": 4,
+          "weekday": "tuesday",
+          "attributeId": 4,
+          "rounds": 4,
+          "vegetarian": false
+        },
+        {
+          "day": 59,
+          "dayInStage": 5,
+          "weekday": "wednesday",
+          "attributeId": 2,
+          "rounds": 2,
+          "vegetarian": true
+        },
+        {
+          "day": 60,
+          "dayInStage": 6,
+          "weekday": "thursday",
+          "attributeId": 9,
+          "rounds": 9,
+          "vegetarian": false
+        },
+        {
+          "day": 61,
+          "dayInStage": 7,
+          "weekday": "friday",
+          "attributeId": 3,
+          "rounds": 3,
+          "vegetarian": false
+        },
+        {
+          "day": 62,
+          "dayInStage": 8,
+          "weekday": "saturday",
+          "attributeId": 7,
+          "rounds": 7,
+          "vegetarian": false
+        },
+        {
+          "day": 63,
+          "dayInStage": 9,
+          "weekday": "sunday",
+          "attributeId": 5,
+          "rounds": 5,
+          "vegetarian": false
+        }
+      ]
+    },
+    {
+      "stage": 8,
+      "name": "အဋ္ဌမအဆင့်",
+      "days": [
+        {
+          "day": 64,
+          "dayInStage": 1,
+          "weekday": "monday",
+          "attributeId": 9,
+          "rounds": 9,
+          "vegetarian": false
+        },
+        {
+          "day": 65,
+          "dayInStage": 2,
+          "weekday": "tuesday",
+          "attributeId": 7,
+          "rounds": 7,
+          "vegetarian": false
+        },
+        {
+          "day": 66,
+          "dayInStage": 3,
+          "weekday": "wednesday",
+          "attributeId": 2,
+          "rounds": 2,
+          "vegetarian": false
+        },
+        {
+          "day": 67,
+          "dayInStage": 4,
+          "weekday": "thursday",
+          "attributeId": 5,
+          "rounds": 5,
+          "vegetarian": false
+        },
+        {
+          "day": 68,
+          "dayInStage": 5,
+          "weekday": "friday",
+          "attributeId": 3,
+          "rounds": 3,
+          "vegetarian": true
+        },
+        {
+          "day": 69,
+          "dayInStage": 6,
+          "weekday": "saturday",
+          "attributeId": 1,
+          "rounds": 1,
+          "vegetarian": false
+        },
+        {
+          "day": 70,
+          "dayInStage": 7,
+          "weekday": "sunday",
+          "attributeId": 4,
+          "rounds": 4,
+          "vegetarian": false
+        },
+        {
+          "day": 71,
+          "dayInStage": 8,
+          "weekday": "monday",
+          "attributeId": 8,
+          "rounds": 8,
+          "vegetarian": false
+        },
+        {
+          "day": 72,
+          "dayInStage": 9,
+          "weekday": "tuesday",
+          "attributeId": 6,
+          "rounds": 6,
+          "vegetarian": false
+        }
+      ]
+    },
+    {
+      "stage": 9,
+      "name": "နဝမအဆင့်",
+      "days": [
+        {
+          "day": 73,
+          "dayInStage": 1,
+          "weekday": "wednesday",
+          "attributeId": 1,
+          "rounds": 1,
+          "vegetarian": false
+        },
+        {
+          "day": 74,
+          "dayInStage": 2,
+          "weekday": "thursday",
+          "attributeId": 8,
+          "rounds": 8,
+          "vegetarian": false
+        },
+        {
+          "day": 75,
+          "dayInStage": 3,
+          "weekday": "friday",
+          "attributeId": 3,
+          "rounds": 3,
+          "vegetarian": false
+        },
+        {
+          "day": 76,
+          "dayInStage": 4,
+          "weekday": "saturday",
+          "attributeId": 6,
+          "rounds": 6,
+          "vegetarian": false
+        },
+        {
+          "day": 77,
+          "dayInStage": 5,
+          "weekday": "sunday",
+          "attributeId": 4,
+          "rounds": 4,
+          "vegetarian": true
+        },
+        {
+          "day": 78,
+          "dayInStage": 6,
+          "weekday": "monday",
+          "attributeId": 2,
+          "rounds": 2,
+          "vegetarian": false
+        },
+        {
+          "day": 79,
+          "dayInStage": 7,
+          "weekday": "tuesday",
+          "attributeId": 5,
+          "rounds": 5,
+          "vegetarian": false
+        },
+        {
+          "day": 80,
+          "dayInStage": 8,
+          "weekday": "wednesday",
+          "attributeId": 9,
+          "rounds": 9,
+          "vegetarian": false
+        },
+        {
+          "day": 81,
+          "dayInStage": 9,
+          "weekday": "thursday",
+          "attributeId": 7,
+          "rounds": 7,
+          "vegetarian": false
+        }
+      ]
+    }
+  ]
+}

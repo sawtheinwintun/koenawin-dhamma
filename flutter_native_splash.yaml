@@ -1,0 +1,10 @@
+# Native launch screen shown while Flutter starts; matches the Flutter splash (primary background, logo).
+# Regenerate: dart run flutter_native_splash:create
+flutter_native_splash:
+  color: "#7A4123"
+  image: assets/branding/png/icon_splash.png
+  android_12:
+    color: "#7A4123"
+    image: assets/branding/png/icon_splash.png
+  ios: false
+  web: false

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <radialGradient id="yogi" cx="50%" cy="42%" r="60%">
+      <stop offset="0%" stop-color="#8E5230"/>
+      <stop offset="100%" stop-color="#5A2E16"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#E6CB7E"/>
+      <stop offset="50%" stop-color="#C29A45"/>
+      <stop offset="100%" stop-color="#8F6A28"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Yogi background -->
+  <circle cx="256" cy="256" r="244" fill="url(#yogi)"/>
+  <circle cx="256" cy="256" r="228" fill="none" stroke="url(#gold)" stroke-width="4"/>
+
+  <!-- Dhamma wheel -->
+  <g fill="url(#gold)">
+    <!-- 8 spokes with outer handles -->
+    <g transform="rotate(0 256 256)"><rect x="250" y="110" width="12" height="114" rx="6"/><rect x="249" y="80" width="14" height="24" rx="3"/><circle cx="256" cy="72" r="16"/></g>
+    <g transform="rotate(45 256 256)"><rect x="250" y="110" width="12" height="114" rx="6"/><rect x="249" y="80" width="14" height="24" rx="3"/><circle cx="256" cy="72" r="16"/></g>
+    <g transform="rotate(90 256 256)"><rect x="250" y="110" width="12" height="114" rx="6"/><rect x="249" y="80" width="14" height="24" rx="3"/><circle cx="256" cy="72" r="16"/></g>
+    <g transform="rotate(135 256 256)"><rect x="250" y="110" width="12" height="114" rx="6"/><rect x="249" y="80" width="14" height="24" rx="3"/><circle cx="256" cy="72" r="16"/></g>
+    <g transform="rotate(180 256 256)"><rect x="250" y="110" width="12" height="114" rx="6"/><rect x="249" y="80" width="14" height="24" rx="3"/><circle cx="256" cy="72" r="16"/></g>
+    <g transform="rotate(225 256 256)"><rect x="250" y="110" width="12" height="114" rx="6"/><rect x="249" y="80" width="14" height="24" rx="3"/><circle cx="256" cy="72" r="16"/></g>
+    <g transform="rotate(270 256 256)"><rect x="250" y="110" width="12" height="114" rx="6"/><rect x="249" y="80" width="14" height="24" rx="3"/><circle cx="256" cy="72" r="16"/></g>
+    <g transform="rotate(315 256 256)"><rect x="250" y="110" width="12" height="114" rx="6"/><rect x="249" y="80" width="14" height="24" rx="3"/><circle cx="256" cy="72" r="16"/></g>
+    <!-- Hub -->
+    <circle cx="256" cy="256" r="38"/>
+  </g>
+  <!-- Rim -->
+  <circle cx="256" cy="256" r="150" fill="none" stroke="url(#gold)" stroke-width="22"/>
+  <circle cx="256" cy="256" r="128" fill="none" stroke="url(#gold)" stroke-width="4"/>
+  <!-- Hub detail -->
+  <circle cx="256" cy="256" r="20" fill="#6E3A1C"/>
+  <circle cx="256" cy="256" r="8" fill="url(#gold)"/>
+</svg>

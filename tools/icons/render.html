@@ -1,0 +1,31 @@
+<!doctype html>
+<!-- Renders one icon variant at 1024 or 1152 px for tools/render_icons.ps1.
+     ?v=full       app_icon.svg as-is (legacy launcher icon)
+     ?v=fg         wheel only, transparent (adaptive icon foreground)
+     ?v=bg         yogi gradient only (adaptive icon background)
+     ?v=splash     round logo at 768px inside a transparent 1152px canvas (native splash) -->
+<html>
+<head>
+<meta charset="utf-8">
+<style>html,body{margin:0;background:transparent}img,svg{display:block}</style>
+</head>
+<body>
+<script>
+const v = new URLSearchParams(location.search).get('v');
+const size = v === 'splash' ? 1152 : 1024;
+const src = v === 'splash' ? '../../assets/branding/logo.svg' : '../../assets/branding/app_icon.svg';
+fetch(src).then(r => r.text()).then(svg => {
+  const doc = new DOMParser().parseFromString(svg, 'image/svg+xml').documentElement;
+  if (v === 'fg') doc.querySelector('rect').remove();
+  if (v === 'bg') doc.querySelector('g').remove();
+  const box = document.createElement('div');
+  box.style.cssText = `width:${size}px;height:${size}px;display:flex;align-items:center;justify-content:center`;
+  const inner = v === 'splash' ? 768 : size;
+  doc.setAttribute('width', inner);
+  doc.setAttribute('height', inner);
+  box.appendChild(doc);
+  document.body.appendChild(box);
+});
+</script>
+</body>
+</html>
