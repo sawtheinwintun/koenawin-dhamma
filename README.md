@@ -10,6 +10,23 @@
 
 ---
 
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center"><img src="docs/screenshots/splash.png" width="200"><br>Splash</td>
+    <td align="center"><img src="docs/screenshots/koenawin_stages.png" width="200"><br>ကိုးနဝင်း အဆင့်များ</td>
+    <td align="center"><img src="docs/screenshots/koenawin_stage_detail.png" width="200"><br>အဆင့်အလိုက် ရက် ၉ ရက်</td>
+    <td align="center"><img src="docs/screenshots/koenawin_today.png" width="200"><br>ယနေ့ ဝင်ရမည့် အဓိဋ္ဌာန်</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="docs/screenshots/dhamma_list.png" width="200"><br>တရားတော်များ</td>
+    <td align="center"><img src="docs/screenshots/dhamma_gatha.png" width="200"><br>ဂါထာတော်</td>
+    <td align="center"><img src="docs/screenshots/video_list.png" width="200"><br>ဗီဒီယို</td>
+    <td></td>
+  </tr>
+</table>
+
 ## လုပ်ဆောင်ချက်များ
 
 ### 🙏 ကိုးနဝင်း
