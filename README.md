@@ -47,6 +47,12 @@
 
 ---
 
+## Case study
+
+The UX case study (research, competitive analysis, design decisions and how the Figma design maps to this code) is in [docs/behance/case_study.md](docs/behance/case_study.md).
+
+<!-- Behance: add the project link here once it is published. -->
+
 ## Features (English)
 
 - **KoeNaWin**: the 81-day schedule (9 stages × 9 days), a daily task card, starting on Mondays only, resuming at a chosen day, a reset when a day is missed, a completion screen, and daily 6 AM reminders.
