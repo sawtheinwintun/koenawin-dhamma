@@ -8,6 +8,10 @@
   ကိုးနဝင်း အဓိဋ္ဌာန် ရက် ၈၁ ရက်ကို နေ့စဉ် လမ်းညွှန်ပေးပြီး ဂါထာတော်များ ရွတ်ဖတ်နိုင်၊ တရားတော် ဗီဒီယိုများ နာကြားနိုင်သော Android app
 </p>
 
+<p align="center">
+  <a href="https://www.behance.net/gallery/258842649/KoeNaWin-Dhamma-UXUI-Case-Study">Behance case study</a>
+</p>
+
 ---
 
 ## Screenshots
@@ -49,9 +53,9 @@
 
 ## Case study
 
-The UX case study (research, competitive analysis, design decisions and how the Figma design maps to this code) is in [docs/behance/case_study.md](docs/behance/case_study.md).
+**[View the UX/UI case study on Behance →](https://www.behance.net/gallery/258842649/KoeNaWin-Dhamma-UXUI-Case-Study)**
 
-<!-- Behance: add the project link here once it is published. -->
+It covers research, competitive analysis, design decisions and how the Figma design maps to this code. The text is also in [docs/behance/case_study.md](docs/behance/case_study.md), and a short demo video is in [docs/behance/koenawin_demo.mp4](docs/behance/koenawin_demo.mp4).
 
 ## Features (English)
 
